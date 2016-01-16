@@ -1,0 +1,108 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/xml/config.xml
+SHA1-Digest: J8TMGaxQYI+bWp1tfitb8aTY0/k=
+
+Name: res/drawable-port-ldpi-v4/screen.png
+SHA1-Digest: Vde6Y8ByMDNsBFpoxcrGf8lW0S4=
+
+Name: res/drawable-port-xhdpi-v4/screen.png
+SHA1-Digest: dMJ6HGn7RlP1BTdkEaCfxS1ND7U=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: YI9qwhC9RoISko5A+8WTPcsr814=
+
+Name: assets/www/templates/tabs.html
+SHA1-Digest: GOTxm4xNvP1voMIBeUpY77cacXc=
+
+Name: res/drawable-port-mdpi-v4/screen.png
+SHA1-Digest: 6GJXB9gSunpGOvQ4e+vxd/dLzZ4=
+
+Name: assets/www/js/controllers.js
+SHA1-Digest: hdVQmtGa5Ai/SveWYfpyTV3mf9o=
+
+Name: assets/www/css/index.css
+SHA1-Digest: XvFmdD5osi36Ax+9L2TcTNbjGdI=
+
+Name: res/drawable-land-ldpi-v4/screen.png
+SHA1-Digest: NBM2WcGixu6IS8kBsZd/6LOJkTE=
+
+Name: resources.arsc
+SHA1-Digest: d1uRp+I7djab3SdSnRdbjkzWq00=
+
+Name: assets/www/js/services.js
+SHA1-Digest: q7P9ROIVkb60CdMZoYNNRfvopyU=
+
+Name: AndroidManifest.xml
+SHA1-Digest: l8SIr184cQCJryNByLoHblE/v4I=
+
+Name: assets/www/css/style.css
+SHA1-Digest: mvVgDiuBYGAODe0gPl4F5pZ3t54=
+
+Name: assets/www/templates/tab-dash.html
+SHA1-Digest: DwSFDdcl/z85unlmwCsvM98oTLg=
+
+Name: assets/www/js/app.js
+SHA1-Digest: AloclIOcGzi1DyE6oKHZNObXWKE=
+
+Name: assets/www/templates/tab-chats.html
+SHA1-Digest: n6K/u1ZsmIaObGeH3iTkKl8Vl/M=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: 6vTSk6v0OPIaAv3wj0JdSVUf43s=
+
+Name: res/drawable-land-xhdpi-v4/screen.png
+SHA1-Digest: WYfr69NHWupQxbS2ITTaNvz8K2k=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: LI9EzuUeDy9nY+Ps8ektqYIf1ls=
+
+Name: res/drawable-land-hdpi-v4/screen.png
+SHA1-Digest: MaXVjldDxLx3cK6rK+iWHWpoN6M=
+
+Name: assets/_where-is-www.txt
+SHA1-Digest: avAF2z5NXxA7dhGqngRyQ0ETAG0=
+
+Name: classes.dex
+SHA1-Digest: n40QoeWugEAHu4HYmNiMX7mJROs=
+
+Name: assets/www/cordova_plugins.js
+SHA1-Digest: s4OxZT3DxxojDYxIwSgU8PPbOno=
+
+Name: assets/www/img/ionic.png
+SHA1-Digest: B19Znm8fDUvSD/71TjItl5Qhopg=
+
+Name: res/drawable-port-hdpi-v4/screen.png
+SHA1-Digest: ihBqR39jHJJWIwTLXvGSn9QRNGs=
+
+Name: assets/www/cordova.js
+SHA1-Digest: xLKbSo2TnYxgFY7+Lz/NSGyXWYo=
+
+Name: res/drawable/icon.png
+SHA1-Digest: V29pfkn63ZKvWbMehv1gXLydfEg=
+
+Name: res/drawable-land-mdpi-v4/screen.png
+SHA1-Digest: d4JkuZn+qTzdgOimtTdchNSO/jM=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: 6LGg1747nvpngNZDqb5SsTh0bVo=
+
+Name: assets/www/index.html
+SHA1-Digest: J8OwRtPiS+am5e+qsdDYWBWLDYs=
+
+Name: assets/www/VSBuildInfo.xml
+SHA1-Digest: hThkNM4YDYmaKRWBK2LGrD26otk=
+
+Name: assets/www/scripts/platformOverrides.js
+SHA1-Digest: aZ5SCI04p1M/eDfO8vg0VsnF1D0=
+
+Name: assets/www/templates/tab-account.html
+SHA1-Digest: AMexRxVdW48JxscNAqn7ToujqkM=
+
+Name: assets/www/templates/chat-detail.html
+SHA1-Digest: l6AiRnUPX7EMZcLCPBxVOp6DPxs=
+
+Name: assets/www/scripts/android2.3-jscompat.js
+SHA1-Digest: 8kWooCtxB6z9mcIBRVGKHH0Y6JE=
+
